@@ -2,9 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Seyyid Hikmet CELIK
-// 181201047
-
 #define SIZE 100
 
 int main(int argc, char **argv)
